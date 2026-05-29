@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Python Basics",
+    "description": "Learn Python fundamentals including variables and loops",
+    "target_date": "2026-12-31",
+    "status": "Not Started",
+    "created_at": "2026-05-29 21:41:29"
+  },
+  {
+    "id": 2,
+    "name": "Flask",
+    "description": "Developing AI app using Python and Flask",
+    "target_date": "2026-12-31",
+    "status": "Not Started",
+    "created_at": "2026-05-29 23:00:17"
+  }
+]
